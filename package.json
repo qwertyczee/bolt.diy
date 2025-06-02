@@ -6,6 +6,9 @@
   "sideEffects": false,
   "type": "module",
   "version": "1.0.0",
+  "volta": {
+    "node": "18.x"
+  },
   "author": {
     "name": "bolt.diy team",
     "email": "maintainers@bolt.diy"
